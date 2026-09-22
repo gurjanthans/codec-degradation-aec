@@ -79,8 +79,7 @@ T4 GPU, and `ffmpeg` with the `libopencore-amrnb`, `libvo-amrwbenc`, and
 
 ## Citation
 
-If you use this code or the results, please cite the work (details to be added
-on publication).
+If you use this code or the results, please cite the work (https://doi.org/10.5281/zenodo.22899468)
 
 ## License
 
