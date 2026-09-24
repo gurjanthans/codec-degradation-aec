@@ -2,7 +2,7 @@
 
 Reproducibility repository for the paper *"When Speech Codecs Meet Environmental
 Sound: Quantifying and Recovering from Coding-Induced Degradation in Acoustic
-Event Classification"* (submitted to *Applied Acoustics*).
+Event Classification"* (submitted to *Speech Communication*).
 
 ## Summary
 
