@@ -1,8 +1,6 @@
-# When Speech Codecs Meet Environmental Sound
+# Robustness of Speech Codecs Beyond Speech
 
-Reproducibility repository for the paper *"When Speech Codecs Meet Environmental
-Sound: Quantifying and Recovering from Coding-Induced Degradation in Acoustic
-Event Classification"* (submitted to *Speech Communication*).
+Reproducibility repository for the paper *"Robustness of Speech Codecs Beyond Speech: Quantifying and Recovering from Coding-Induced Degradation in Audio Event Classification"* (submitted to *Speech Communication*).
 
 ## Summary
 
